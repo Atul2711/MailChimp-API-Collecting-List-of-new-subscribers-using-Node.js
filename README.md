@@ -2,7 +2,7 @@
 Record lists of audience  from the node.Js application by using Mailchimp API.
 
 ### Backend: Node.js and Express on the backend;
-### Frontend: HTML, CSS and Bootstrap  on the frontend.
+### Frontend: HTML, CSS.
 The emails are saved to Mailchimp using the Mailchimp API.
 
 Hosted on Heroku: https://dry-island-62604.herokuapp.com/
